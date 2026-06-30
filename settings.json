@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McCraft62.aternos.me",
-    "port": 48533,
+    "ip": "amd4.nebulahost.store",
+    "port": 25567,
     "version": "1.20.1",
     "try-creative": false
   },
