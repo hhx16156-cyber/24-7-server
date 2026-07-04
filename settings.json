@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "amd4.nebulahost.store",
+    "ip": "amd4ore",
     "port": 25567,
     "version": "1.20.1",
     "try-creative": false
